@@ -16,4 +16,4 @@ for currentLine in f.splitlines():
     currentLineCalibrationValue = 10 * firstCalibrationValue + lastCalibrationValue
     calibrationValue += currentLineCalibrationValue
 
-print(f"Sum of all calibration value is {calibrationValue}.")
+print(f"Sum of all calibration values is {calibrationValue}.")
